@@ -1,0 +1,1 @@
+A python library to access AdWords through the AdWords API. Consists of a basic SOAP library including a simplified WSDL parser.
